@@ -1,7 +1,4 @@
-Data Structures and Algorithms: Beginner
+https://www.youtube.com/watch?v=lvO88XxNAzs&t=0s
 
-Going to use python as the language.
+by stoney codes
 
-Array --> List
-Hash Table --> Dictionary
-Linked List --> N/A
